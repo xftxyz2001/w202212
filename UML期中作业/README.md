@@ -1,0 +1,2 @@
+- [CSDN-领域类图（领域模型/概念类图）的绘制](https://blog.csdn.net/AnnaQiu/article/details/69945332)
+- [知乎-图书馆领域常见名词选辑](https://zhuanlan.zhihu.com/p/57935761)
